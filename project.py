@@ -6,5 +6,5 @@ win = Gtk.Window(title="Hello")
 win.connect("destroy", Gtk.main_quit)
 label = Gtk.Label(label="Hello")
 win.add(label)
-win.show_all()
+win.show_all()adfadljal
 Gtk.main()
